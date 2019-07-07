@@ -173,3 +173,7 @@ methods: {
     })
 }
 ```
+
+
+### 项目中使用：
+[Vuex在项目中简单模块拆分](https://github.com/zoey-git/vuex-module)

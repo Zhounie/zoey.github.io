@@ -79,5 +79,5 @@ theme: apollo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Zhounie/zoey.github.io.git
+  repo: https://zoey-git.github.io/zoey.github.io/
   branch: master
